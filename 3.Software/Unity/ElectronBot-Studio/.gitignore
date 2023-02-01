@@ -1,9 +1,0 @@
-Library
-Build
-Logs
-Temp
-obj
-*.csproj
-*.sln
-opencv_world348d.dll
-msyh.asset
